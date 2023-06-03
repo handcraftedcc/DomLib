@@ -1,7 +1,7 @@
 # DomLib
 Compilation of Houdini Tools and Utilities created by yours truly!
 
-For information on the tools and additional Houdini resources, please visit the DomLib Notion wiki at https://www.notion.so/dominiklange/DomLib-Houdini-Resource-Library-180a4bba68304112883fcdf70f512e90?pvs=4
+For information on the tools and additional Houdini resources, please visit the [DomLib Notion Wiki](https://www.notion.so/dominiklange/DomLib-Houdini-Resource-Library-180a4bba68304112883fcdf70f512e90)
 
 <!-- Installation -->
 ## Installation
