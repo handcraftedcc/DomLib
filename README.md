@@ -1,4 +1,12 @@
 # DomLib
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">DomLib</h3>
 Compilation of Houdini Tools and Utilities created by yours truly!
 
 For information on the tools and additional Houdini resources, please visit the [DomLib Notion Wiki](https://www.notion.so/dominiklange/DomLib-Houdini-Resource-Library-180a4bba68304112883fcdf70f512e90)
