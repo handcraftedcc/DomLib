@@ -1,0 +1,9 @@
+{
+	"env": [
+		{
+			"DOMLIB": "PATH/TO/PACKAGE/DomLib"
+		}
+	],
+	"path": "$DOMLIB"
+	
+}
