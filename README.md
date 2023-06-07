@@ -3,7 +3,7 @@ Compilation of Houdini Tools and Utilities created by yours truly!
 For information on the tools and additional Houdini resources, please visit the [DomLib Notion Wiki](https://www.notion.so/dominiklange/DomLib-Houdini-Resource-Library-180a4bba68304112883fcdf70f512e90).
 More tools coming soon!
 
-Currently the tools are for Houdini Indie/ Apprentice users only. If you would like to use any of the tools with houdini core or fx feel free to email me at dominik@handcrafted.cc and I might be able to make the tool accessible through orbolt.
+Currently the tools are for Houdini Indie/Apprentice users only. If you would like to use any of the tools with Houdini Core or FX feel free to email me at dominik@handcrafted.cc and I might be able to make the tool accessible through orbolt.
 
 <!-- Installation -->
 ## Installation
