@@ -16,3 +16,8 @@ Currently the tools are for Houdini Indie/Apprentice users only. If you would li
 	```
 3. Replace ```"PATH/TO/PACKAGE/"``` with path to the folder. In my case that will read: ```"C:/Users/Dominik/Documents/Houdini Assets/Project Packs/DomLib"```
 	Make sure to use "/" as seperators, not "\" otherwise it won't work.
+
+<!-- AI Disclaimer -->
+## AI Disclaimer
+AI was used in development of the following tools:
+- SVG Vibez - a mostly vibecoded svg importer (but a pretty good one IMO)
